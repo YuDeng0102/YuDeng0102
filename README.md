@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 [![YuDeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDeng0102)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDeng0102)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **YuDeng0102/YuDeng0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
